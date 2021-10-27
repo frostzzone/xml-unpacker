@@ -1,4 +1,4 @@
-#Basic XML unpacker for fnf
+# Basic XML unpacker
 all credit to [@cabalex](https://github.com/cabalex)
 
 [His code](https://gist.github.com/cabalex/931885371f20a226e4c6a3391e2d3982)
