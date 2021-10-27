@@ -1,5 +1,6 @@
 #Basic XML unpacker for fnf
-all credit to [@cabalex](https://github.com/cabalex) 
+all credit to [@cabalex](https://github.com/cabalex)
+
 [His code](https://gist.github.com/cabalex/931885371f20a226e4c6a3391e2d3982)
 
 A way to unpack fnf images online
