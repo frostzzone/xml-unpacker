@@ -13,13 +13,11 @@ all credit to [@cabalex](https://github.com/cabalex) [[His code](https://gist.gi
 - [Connecting colab to drive](https://github.com/frostzzone/xml-unpacker#connecting-colab-to-drive)
 - [Final code](https://github.com/frostzzone/xml-unpacker#Final-code)
 ### Getting to the site
-Go [here](https://colab.research.google.com/github/frostzzone/xml-unpacker/blob/main/XML_unpacker_for_colab.ipynb) [This will copy the colab file in this repository]
-
-![Url](https://user-images.githubusercontent.com/65735427/139131111-7841d9cd-0884-4785-b7c9-9c53251dc15d.png)
-
-You will see this
+Go [here](https://colab.research.google.com/github/frostzzone/xml-unpacker/blob/main/XML_unpacker_on_colab.ipynb) and you'll see this
 
 ![Colab show off](https://user-images.githubusercontent.com/65735427/139131675-91cfe0e2-401f-4247-864a-9a79b3a0bf37.png)
+
+Congrats you finished Step 1
 
 ### Google drive setup
 First create a new folder [name it `Code` CASE SENSITIVE]
