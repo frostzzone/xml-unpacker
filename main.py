@@ -15,6 +15,7 @@ import os
 from PIL import Image
 from bs4 import BeautifulSoup
 import re
+import lxml
 
 print("parsing")
 for path, currentDirectory, files in os.walk(d):
