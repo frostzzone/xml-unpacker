@@ -7,6 +7,7 @@ All credit to [@cabalex](https://github.com/cabalex) [[His code](https://gist.gi
 
 ## Instructions
 ### T.O.C. (table of contents)
+- [**On repl**](https://github.com/frostzzone/xml-unpacker#on-repl)
 - [Getting to the site](https://github.com/frostzzone/xml-unpacker#getting-to-the-site)
 - [Google drive setup](https://github.com/frostzzone/xml-unpacker#google-drive-setup)
 - [Where to put png and xml](https://github.com/frostzzone/xml-unpacker#where-to-put-png-and-xml)
@@ -75,5 +76,30 @@ After your all done go to your `Output` folder to find your images!
 
 ![Output](https://user-images.githubusercontent.com/65735427/139309909-037a29f6-4e33-411b-816d-347227e61dfd.png)
 
+** **
 
-Ported to google colab by [@frostzzone](https://github.com/frostzzone)
+### On repl
+
+You can also run this on repl!!!
+
+
+#### Step 1
+
+Import this github to repl
+
+(Press plus at top right)
+
+[no image yet]
+
+(then pres import from github)
+
+[no image yet]
+
+(and type **frostzzone/xml-unpacker**)
+
+[no image yet]
+
+#### Step 2
+
+** **
+Ported to google colab and replit by [@frostzzone](https://github.com/frostzzone)
